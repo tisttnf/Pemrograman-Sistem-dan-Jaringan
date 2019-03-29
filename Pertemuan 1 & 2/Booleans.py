@@ -1,0 +1,5 @@
+print((2 + 4) or False)
+print(not True)
+print(not 0)
+print(0 and 2)
+print(True and 7)

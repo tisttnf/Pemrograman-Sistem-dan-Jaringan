@@ -1,0 +1,5 @@
+print(5 == 5)
+print("hello" == "hello")
+print(1 != 2)
+print(5 > 3)
+print("b" > "a")
