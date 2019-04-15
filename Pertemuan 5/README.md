@@ -1,1 +1,1 @@
-# while, if, elif, else
+# fungsi, modul, import 

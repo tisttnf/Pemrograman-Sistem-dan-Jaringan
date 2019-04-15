@@ -1,1 +1,1 @@
-# fungsi, modul, import 
+# shell

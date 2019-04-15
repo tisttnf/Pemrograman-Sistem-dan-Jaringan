@@ -1,1 +1,1 @@
-# Variabel dan Tipe data
+# List, Tuple, Dict, for, range, input

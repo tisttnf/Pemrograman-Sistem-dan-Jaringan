@@ -1,9 +1,22 @@
 import os
-# import time
+import threading
+import time
+
+class myThread (threading.Thread):
+    def __init__(self, threadName, counter):
+        threading.Thread.__init__(self)
+        self.name = threadName
+        self.counter = counter
+
+    def run(self):
+        while self.counter >= 1:
+            print("Starting %s - counter : %d" %(self.name, self.counter))
+            self.counter -= 1
+            time.sleep(1)
+        print("Exiting %s"%(self.name))
 
 fname = "ip.txt"
 fd = open(fname)
-# fd mode default yaitu read
 
 fname1 = "status.csv"
 fd1 = open(fname1, "a")
@@ -13,7 +26,6 @@ pattern = "3 received"
 for ip in fd.readlines() :    
     status = "Down"
     outx = None
-    # strip untuk menghilangkan karakter \n
     ipx = ip.strip()
 
     cmd = "ping -q -c3 %s" %(ipx)
@@ -29,8 +41,6 @@ for ip in fd.readlines() :
     outx1 = outx1.strip()
     
     print("Host %s is %s" %(ipx, status))
-    # t = time.strftime("%Y-%m-%d %H:%M:%S")
-    # str(t)
     fd1.write("%s;%s;%s\n" %(outx1, ipx, status))    
 
 fd.close()
