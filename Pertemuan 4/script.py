@@ -28,6 +28,7 @@ z = y.split("=")
 print("%s => %s" %(z[0],z[1]))
 # print(f"{z[0]} => {z[1]}")
 
+fname = "config.cfg"
 fd = open(fname, "r")
 dataset = fd.readlines()
 for row in dataset :

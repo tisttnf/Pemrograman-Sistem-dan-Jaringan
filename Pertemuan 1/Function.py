@@ -5,5 +5,5 @@ def tambah(x, y) :
     r = x + y
     return r
 
-cetak("hwllo world")
+cetak("hello world")
 print(tambah(2, 4))
