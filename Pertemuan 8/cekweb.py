@@ -16,10 +16,16 @@
 import requests
 
 # url = "http://localhost"
-url = "http://www.nurulfikri.ac.id"
+# url = "http://www.nurulfikri.ac.id"
+# url = "http://www.nurulfikris.ac.id"
 
-try :
-    con = requests.get(url)
-    print("web server of %s is Running" %(url))
-except :
-    print("web server of %s is Stopped" %(url))
+fname = "web.txt"
+fd = open(fname)
+
+for url in fd.readlines() :
+    try :        
+        url = url.strip()
+        requests.get(url)
+        print("web server of %s is Running" %(url))
+    except :
+        print("web server of %s is Stopped" %(url))
