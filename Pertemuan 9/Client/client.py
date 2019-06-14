@@ -7,8 +7,6 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))
 
 filename = 'file.txt'
-s.sendall(bytes('%s\n' %(filename), encoding='utf-8'))
-
 pesan = open(filename, 'rb')
 for line in pesan.readlines() :
     s.sendall(line)
