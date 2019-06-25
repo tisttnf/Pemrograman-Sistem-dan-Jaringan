@@ -2,9 +2,8 @@ from socket import *
 import os
 
 s = socket(AF_INET,SOCK_DGRAM)
-# s.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
 s.setsockopt(SOL_SOCKET, SO_BROADCAST, 1)
-s.bind(("",10000) )
+s.bind(("",10000))
 maxsize = 1024
 db = {}
 
@@ -23,10 +22,7 @@ while True:
     else :
         pass
 
-    # For Linux
     os.system("clear")
-    # For Windows
-    # os.system("cls")
 
     print("Students in Lab")
 
