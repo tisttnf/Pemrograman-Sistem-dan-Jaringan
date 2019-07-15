@@ -1,0 +1,109 @@
+#;Bandara/Stasiun;Waktu Pengamatan (Local Time);Angin;Jarak Pandang (km);Cuaca;Suhu (°C);Titik Embun (°C);Tekanan Udara (hPa)
+
+
+1;Maimun Saleh - Sabang;2019-07-15 10:00:00 WIB;Barat;14.8;>=10;Berawan;30;24;1011
+2;Sultan Iskandar Muda - Banda Aceh;2019-07-15 12:00:00 WIB;Barat;5.6;>=10;Berawan;32;22;1008
+3;Cut Nyak Dien Nagan Raya - Meulaboh, NAD;2019-07-15 11:00:00 WIB;Barat;5.6;>=10;Berawan;30;24;1010
+4;Malikus Saleh - Lhokseumawe;2019-07-15 12:00:00 WIB;Utara;7.4;>=10;Cerah - berawan;32;23;1009
+5;Binaka - Gunung Sitoli;2019-07-15 12:00:00 WIB;Selatan;7.4;>=10;Cerah - berawan;28;24;1010
+6;Kualanamu International Airport - Deli Serdang;2019-07-15 12:30:00 WIB;Timur Laut;7.4;>=10;Cerah - berawan;31;24;1008
+7;Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga);2019-07-15 12:30:00 WIB;Tenggara;5.6;>=10;Berawan;30;24;1009
+8;Aek Godang - Padang Sidempuan;2019-07-15 12:30:00 WIB;Barat;13.0;>=10;Berawan;29;21;1010
+9;Minangkabau International Airport - Padang;2019-07-15 12:30:00 WIB;Tenggara;13.0;>=10;Hujan ringan;26;24;1011
+10;Sultan Syarif Kasim II - Pekanbaru;2019-07-15 12:00:00 WIB;Selatan;14.8;>=10;Cerah - berawan;27;23;1009
+11;Depati Parbo - Kerinci;2019-07-15 11:00:00 WIB;Tenggara;9.3;7.0;Berawan;25;21;1015
+12;Japura - Rengat;2019-07-15 12:00:00 WIB;;Tenang;5.0;Hujan;24;23;1011
+13;Fatmawati Sukarno - Bengkulu;2019-07-15 12:30:00 WIB;Selatan;24.1;>=10;Cerah - berawan;30;23;1009
+14;Raja Haji Abdullah - Tanjung Balai Karimun;2019-07-15 11:00:00 WIB;Barat;9.3;8.0;Berawan;28;24;1011
+15;Sultan Thaha - Jambi;2019-07-15 12:30:00 WIB;Tenggara;11.1;>=10;Berawan;31;22;1010
+16;Hang Nadim - Batam;2019-07-15 12:30:00 WIB;Selatan;5.6;>=10;Hujan ringan;25;24;1012
+17;Raja Haji Fisabilillah - Tanjung Pinang;2019-07-15 12:30:00 WIB;Selatan;7.4;8.0;Hujan ringan;24;24;1011
+18;Dabo - Singkep;2019-07-15 12:00:00 WIB;Tenggara;9.3;9.0;Berawan;31;24;1010
+19;Sultan Mahmud Badaruddin II - Palembang;2019-07-15 11:30:00 WIB;Selatan;18.5;>=10;Berawan;30;23;1011
+20;Radin Inten II - Lampung;2019-07-15 12:00:00 WIB;Tenggara;11.1;>=10;Berawan;29;22;1011
+21;Depati Amir - Pangkal Pinang;2019-07-15 12:30:00 WIB;Timur;20.4;>=10;Berawan;30;23;1010
+22;Budiarto - Curug;2019-07-15 12:30:00 WIB;Timur;7.4;>=10;Cerah - berawan;33;14;1011
+23;Soekarno Hatta - Jakarta;2019-07-15 12:30:00 WIB;Timur;22.2;>=10;Cerah - berawan;32;19;1010
+24;Halim Perdana Kusuma - Jakarta;2019-07-15 12:00:00 WIB;Timur;18.5;6.0;Berawan;32;18;1011
+25;Husein Sastranegara - Bandung;2019-07-15 12:00:00 WIB;Tenggara;5.6;7.0;Cerah - berawan;26;15;1015
+26;Suryadarma - Kalijati, Subang;2019-07-15 12:30:00 WIB;Timur Laut;16.7;>=10;Cerah - berawan;32;18;1010
+27;H.A.S. Hanandjoeddin - Tanjung Pandan;2019-07-15 12:30:00 WIB;Tenggara;13.0;>=10;Berawan;31;20;1010
+28;Kertajati;2019-07-15 12:30:00 WIB;Timur Laut;14.8;9.0;Berawan;31;18;1010
+29;Wiriadinata - Cibeureum, Tasikmalaya;2019-07-15 11:00:00 WIB;Timur;14.8;6.0;Berawan;26;18;1015
+30;Tunggul Wulung - Cilacap;2019-07-15 12:00:00 WIB;Tenggara;24.1;>=10;Cerah - berawan;27;21;1012
+31;Supadio - Pontianak;2019-07-15 12:30:00 WIB;Selatan;11.1;>=10;Cerah - berawan;31;18;1009
+32;Rahadi Oesman - Ketapang;2019-07-15 12:30:00 WIB;Timur;16.7;>=10;Cerah - berawan;31;21;1010
+33;Yogyakarta International Airport - Kulonprogo;2019-07-15 11:00:00 WIB;Tenggara;37.0;>=10;Cerah - berawan;26;22;1012
+34;Ahmad Yani - Semarang;2019-07-15 12:30:00 WIB;Timur Laut;18.5;8.0;Cerah - berawan;32;14;1010
+35;Adi Soemarmo - Surakarta;2019-07-15 12:00:00 WIB;Selatan;11.1;8.0;Cerah - berawan;31;16;1012
+36;Tebelian - Sintang;2019-07-15 12:30:00 WIB;Tenggara;11.1;8.0;Berawan;31;21;1009
+37;Iskandar - Pangkalan Bun;2019-07-15 12:30:00 WIB;Tenggara;11.1;>=10;Berawan;31;21;1010
+38;Nanga Pinoh;2019-07-15 12:00:00 WIB;Tenggara;11.1;>=10;Berawan;31;20;1010
+39;Bawean - Harun Thohir;2019-07-15 12:00:00 WIB;Tenggara;18.5;8.0;Berawan;30;22;1008
+40;Juanda - Surabaya;2019-07-15 12:30:00 WIB;Timur;16.7;>=10;Cerah - berawan;31;19;1010
+41;Pangsuma - Putussibau;2019-07-15 12:00:00 WIB;Timur;7.4;>=10;Cerah - berawan;31;22;1010
+42;Haji Asan - Sampit;2019-07-15 12:00:00 WIB;Selatan;5.6;>=10;Berawan;31;19;1010
+43;Noto Hadinegoro - Jember;2019-07-15 12:00:00 WIB;Selatan;9.3;>=10;Berawan;33;18;1012
+44;Tjilik Riwut - Palangkaraya;2019-07-15 12:00:00 WIB;Selatan;13.0;>=10;Berawan;31;17;1011
+45;Banyuwangi;2019-07-15 12:00:00 WIB;Tenggara;25.9;8.0;Berawan;28;22;1012
+46;Beringin - Muara Teweh;2019-07-15 12:30:00 WIB;;Tenang;>=10;Berawan;31;21;1010
+47;Sanggu - Buntok;2019-07-15 12:00:00 WIB;Selatan;5.6;>=10;Berawan;31;21;1011
+48;H. Hasan Aroeboesman - Ende;2019-07-15 12:00:00 WIB;Tenggara;14.8;8.0;Berawan;27;21;1012
+49;Syamsudin Noor - Banjarmasin;2019-07-15 13:30:00 WITA;Timur;13.0;>=10;Berawan;32;20;1008
+50;I Gusti Ngurah Rai - Denpasar;2019-07-15 13:30:00 WITA;Tenggara;38.9;>=10;Cerah - berawan;27;22;1012
+51;Yuvai Semaring - Long Bawang;2019-07-15 13:00:00 WITA;Tenggara;5.6;>=10;Berawan;27;19;1014
+52;Gusti Sjamsir Alam - Kota Baru;2019-07-15 13:30:00 WITA;Timur;9.3;8.0;Berawan;29;24;1009
+53;Bandara Internasional Lombok - Praya;2019-07-15 13:30:00 WITA;Tenggara;33.3;8.0;Berawan;29;19;1012
+54;Sultan Aji Muhammad Sulaiman - Sepinggan;2019-07-15 13:30:00 WITA;Barat Daya;11.1;>=10;Cerah - berawan;29;24;1009
+55;Aji Pangeran Tumenggung Pranoto - Samarinda;2019-07-15 13:30:00 WITA;Barat Daya;11.1;>=10;Berawan;31;22;1009
+56;Tanjung Harapan - Tanjung Selor;2019-07-15 13:00:00 WITA;Tenggara;5.6;8.0;Cerah - berawan;32;23;1007
+57;Sultan Muhammad Kaharuddin - Sumbawa Besar;2019-07-15 13:00:00 WITA;Tenggara;18.5;>=10;Berawan;31;18;1010
+58;Kalimarau - Tanjung Redeb;2019-07-15 12:00:00 WITA;Barat Daya;3.7;>=10;Berawan;32;22;1010
+59;Juwata - Tarakan;2019-07-15 13:00:00 WITA;Barat Daya;5.6;>=10;Cerah - berawan;31;25;1008
+60;Sultan Muhammad Salahuddin - Bima;2019-07-15 13:00:00 WITA;Tenggara;25.9;>=10;Berawan;30;21;1011
+61;Tambolaka - Sumba Barat;2019-07-15 12:00:00 WITA;Timur;27.8;>=10;Berawan;31;22;1013
+62;Sultan Hasanuddin - Makassar;2019-07-15 13:30:00 WITA;Barat;14.8;>=10;Cerah - berawan;31;21;1008
+63;Pongtiku - Tana Toraja;2019-07-15 13:00:00 WITA;Timur Laut;3.7;9.0;Berawan;24;19;1009
+64;Komodo - Labuan Bajo;2019-07-15 13:30:00 WITA;Barat Laut;14.8;>=10;Berawan;30;20;1011
+65;Mutiara SIS Al-Jufri - Palu;2019-07-15 13:00:00 WITA;Utara;18.5;>=10;Cerah - berawan;33;23;1009
+66;Umbu Mehang Kunda - Waingapu;2019-07-15 13:00:00 WITA;Timur Laut;24.1;>=10;Cerah - berawan;31;17;1012
+67;Andi Jemma - Masamba;2019-07-15 13:00:00 WITA;;Tenang;8.0;Berawan;29;22;1010
+68;Frans Sales Lega - Ruteng;2019-07-15 13:00:00 WITA;Utara;13.0;>=10;Berawan;22;16;1008
+69;Kasiguncu - Poso;2019-07-15 13:00:00 WITA;Selatan;14.8;>=10;Cerah - berawan;32;20;1007
+70;Sultan Bantilan - Toli Toli;2019-07-15 12:00:00 WITA;Barat;9.3;>=10;Cerah - berawan;31;24;1008
+71;Sangia Nibandera - Kolaka;2019-07-15 13:00:00 WITA;;Tenang;>=10;Cerah - berawan;32;20;1009
+72;Tardamu - Sabu;2019-07-15 13:00:00 WITA;Tenggara;27.8;>=10;Cerah - berawan;29;18;1013
+73;Fransiskus Xaverius Seda - Maumere;2019-07-15 13:30:00 WITA;Tenggara;20.4;>=10;Cerah - berawan;31;18;1011
+74;Haluoleo - Kendari;2019-07-15 13:00:00 WITA;Timur Laut;14.8;>=10;Berawan;30;25;1012
+75;Beto Ambari - Bau Bau;2019-07-15 13:00:00 WITA;Timur Laut;14.8;>=10;Berawan;29;21;1012
+76;Djalaluddin - Gorontalo;2019-07-15 13:00:00 WITA;Tenggara;22.2;>=10;Berawan;30;23;1007
+77;Gewayantana - Larantuka;2019-07-15 13:00:00 WITA;Barat Daya;7.4;>=10;Cerah - berawan;31;17;1010
+78;David Constantijn Saudale - Rote;2019-07-15 13:00:00 WITA;Tenggara;33.3;>=10;Cerah - berawan;29;16;1017
+79;El Tari - Kupang;2019-07-15 13:30:00 WITA;Tenggara;33.3;>=10;Berawan;29;16;1011
+80;Mali - Alor;2019-07-15 13:00:00 WITA;Utara;11.1;>=10;Cerah - berawan;30;19;1011
+81;A.A. Bere Talo / Atambua;2019-07-15 13:00:00 WITA;Selatan;14.8;>=10;Cerah - berawan;29;15;1011
+82;Sam Ratulangi - Manado;2019-07-15 13:30:00 WITA;Selatan;18.5;>=10;Cerah - berawan;33;21;1007
+83;Naha - Tahuna;2019-07-15 11:00:00 WITA;Barat Daya;18.5;9.0;Cerah - berawan;30;23;1008
+84;Emalamo - Sanana;2019-07-15 14:00:00 WIT;Timur;11.1;9.0;Berawan;30;22;1009
+85;Namniwel - Namlea;2019-07-15 14:00:00 WIT;Tenggara;9.3;>=10;Berawan;29;23;1007
+86;Sultan Babullah - Ternate;2019-07-15 14:30:00 WIT;Selatan;7.4;>=10;Cerah - berawan;30;22;1008
+87;Oesman Sadik - Labuha;2019-07-15 14:00:00 WIT;Barat;9.3;9.0;Berawan;30;22;1008
+88;Gamar Malamo - Galela;2019-07-15 14:00:00 WIT;Barat Daya;11.1;>=10;Berawan;32;20;1007
+89;Pattimura - Ambon;2019-07-15 14:30:00 WIT;Barat Laut;9.3;5.0;Hujan ringan;23;22;1010
+90;Amahai;2019-07-15 13:00:00 WIT;Selatan;9.3;9.0;Hujan ringan;24;23;1011
+91;Bandaneira - Banda;2019-07-15 14:00:00 WIT;Timur;13.0;9.0;Berawan;27;22;1010
+92;Domine Eduard Osok - Sorong;2019-07-15 14:00:00 WIT;Barat Daya;18.5;9.0;Berawan;28;24;1007
+93;Mathilda Batlayeri - Saumlaki;2019-07-15 14:00:00 WIT;Tenggara;14.8;>=10;Berawan;26;20;1010
+94;Torea - Fak Fak;2019-07-15 14:00:00 WIT;Selatan;9.3;>=10;Berawan;28;22;1010
+95;Dumatubun - Langgur;2019-07-15 14:00:00 WIT;Tenggara;27.8;9.0;Berawan;27;22;1010
+96;Utarom - Kaimana;2019-07-15 14:00:00 WIT;Selatan;16.7;>=10;Berawan;28;23;1008
+97;Rendani - Manokwari;2019-07-15 14:30:00 WIT;Timur;11.1;>=10;Cerah - berawan;31;24;1007
+98;Douw Aturure - Nabire;2019-07-15 14:10:00 WIT;Barat Laut;16.7;7.0;Gerimis ringan;30;23;1006
+99;Frans Kaisiepo - Biak;2019-07-15 14:30:00 WIT;Barat Daya;7.4;>=10;Berawan;30;24;1007
+100;Enarotali;2019-07-15 14:20:00 WIT;;Tenang;1.0;Hujan ringan;21;16;1007
+101;Mozes Kilangin - Timika;2019-07-15 14:30:00 WIT;Tenggara;11.1;>=10;Berawan;29;24;1010
+102;Mararena / Orai - Sarmi;2019-07-15 12:00:00 WIT;Timur Laut;5.6;>=10;Cerah - berawan;28;24;1009
+103;Wamena;2019-07-15 14:00:00 WIT;Selatan;27.8;>=10;Hujan ringan;22;15;1017
+104;Tanah Merah;2019-07-15 14:00:00 WIT;Tenggara;11.1;2.0;Berawan;24;24;1010
+105;Mopah - Merauke;2019-07-15 14:00:00 WIT;Selatan;16.7;>=10;Berawan;27;22;1010
+106;Sentani - Jayapura;2019-07-15 14:30:00 WIT;Barat Daya;5.6;8.0;Hujan ringan;27;24;1006

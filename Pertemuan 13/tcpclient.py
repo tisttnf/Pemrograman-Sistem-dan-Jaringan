@@ -1,7 +1,7 @@
 # echo_client.py
 import socket, sys
 
-HOST, PORT = "localhost", 9999
+HOST, PORT = "localhost", 10000
 data = " ".join(sys.argv[1:])
 print('data = %s' %(data) )
 
