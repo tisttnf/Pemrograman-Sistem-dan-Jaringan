@@ -5,7 +5,7 @@ fileout = "cuaca-bandara.csv"
 delimiter = ";"
 
 #web crawling process
-url = "http://www.bmkg.go.id/cuaca/cuaca-aktual-bandara.bmkg"
+url = "http://www.bmkg.go.id/cuaca/cuaca-aktual-bandara.bmkg?Detil=YES&ICAOID=WITN"
 con = requests.get(url)
 html = con.text
 
